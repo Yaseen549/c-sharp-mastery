@@ -1,3 +1,4 @@
 ### c-sharp-mastery
 
-String Case
+1) String Case
+2) MyTestCase - Methods - parameters - calling functions
